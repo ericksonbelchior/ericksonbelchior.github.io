@@ -8,11 +8,10 @@ html, body {
 }
 
 body {
-    background: rgb(203,3,153);
-    background: linear-gradient(175deg, rgba(203,3,153,1) 0%, rgba(226,106,221,1) 59%);
-    color: white;
-    font-family: 'Roboto Mono', monospace;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 }
+    
 .avatar {
     width: 120px;
     border-radius: 50px;
